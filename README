@@ -6,7 +6,9 @@ This is the main Repository made by Antonio and Andre.
 
 This is dedicated for the High Modularity To Do List Program, for task assignment, planning, and, execution!
 
+Demo Video: https://youtu.be/80N3r71XScA
+
 To download:
--
--
--
+-Download main and header files
+-Run through your compiler of choice(We used Visual Studio Code Microsoft 2022)
+-Listify your life!
